@@ -26,7 +26,7 @@ const Home = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/Cart"
+              href="/Shop"
               className="bg-white text-black px-10 py-4 rounded-full font-bold hover:bg-gray-200 transition-all flex items-center justify-center"
             >
               İNDİ AL <ArrowRight className="ml-2" size={18} />
